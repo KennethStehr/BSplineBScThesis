@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: BSplineBScThesis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kenneth
+    family-names: Stehr
+    email: kenste4@gmail.com
+    affiliation: Universität Wien
+repository-code: >-
+  https://github.com/KennethStehr/BSplineBScThesis/blob/main/BSplineRec.ipynb
+url: 'https://github.com/KennethStehr/BSplineBScThesis'
+abstract: >-
+  Code from the bachelor's thesis "Interpolation using the
+  Cox De Boor Recursion Formula" by Kenneth Stehr
+license: MIT
+date-released: '2026-02-07'
